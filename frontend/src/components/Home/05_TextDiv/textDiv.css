@@ -1,0 +1,23 @@
+  .text_con{
+    margin-top: 3rem;
+    text-align: center;
+  } 
+  .main_heading{
+    font-size: 3rem;
+    font-family: Kaushan Script;
+    color: black;
+  }
+.Icon_text{
+  font-size: 1.6rem;
+  font-family: Kaushan Script;
+}
+.Icon{
+  text-align: center;
+  font-size: 3.5rem;
+}
+.Icon span{
+  color: #0097A7;
+}
+.text_para{
+  font-size: 1.2rem;
+} 

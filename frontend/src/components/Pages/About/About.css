@@ -1,0 +1,21 @@
+  .about_content{
+    margin: 2rem;
+} 
+  .about_para{
+    font-size: 1.4rem;
+    line-height: 1.6;
+    text-align: justify;
+    word-spacing: .3rem;
+  }
+  .about-link-container{
+    text-align: end;
+  }
+  .about_link{
+    font-size: 1.2rem;
+    text-decoration: none;
+    color: black;
+  }
+  .about_right_arrow{
+    font-size: 2rem;
+    padding-left: 1rem;
+  }

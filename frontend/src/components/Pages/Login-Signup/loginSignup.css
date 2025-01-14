@@ -1,0 +1,84 @@
+.background-body{
+    height: auto;
+    background: linear-gradient(#0097A7 , #ffffff);
+}
+.signup-container{
+    display: flex;
+    flex-direction: column;
+    background: #ffff;
+    padding-bottom: 2rem;
+    max-width: 550px;
+    margin: 8rem 0;
+}
+.signup-header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem;
+    width: 100%;
+    margin-top: 3rem;
+}
+.signup-heading{
+    color: #0097A7;
+    font-size: 3rem;
+    font-weight: 600;
+    font-family: Kaushan Script;
+}
+.underline{
+    width: 5rem;
+    height: .4rem;
+    background: #0097A7;
+    border-radius: .5rem;
+    margin-bottom: 3rem;
+}
+.signup-input{
+    height: 4rem;
+    background: #eaeaea;
+    border-radius: .5rem;
+    margin-bottom: 3rem;
+    border: none;
+    outline: none;
+    color: #797979;
+    font-size: 1.3rem;
+    padding-left: 2rem;
+}
+.signup-input:focus{
+    background: #eaeaea;
+    color: black;
+    box-shadow: none;
+    border: none;
+    outline: none;
+}
+.icon-span span{
+    font-size: 2rem;
+    margin: 0 5rem;
+}
+.forgot-password{
+    color: #797979;
+    font-size: 1.1rem;
+    margin-top: -1.6rem;
+}
+.forgot-password span{
+    color: #0097A7;
+    cursor: pointer;
+}
+.LoginSignup__btn{
+    text-align: center;
+    width: 40%;
+    height: 3.5rem;
+    color: #ffffff !important;
+    background: #0097A7 !important;
+    font-size: 1.3rem;
+    border-radius: .5rem;
+    cursor: pointer;
+    margin: 1rem 1rem;
+    border: none;
+}
+.signup-container p {
+    font-size: 1.2rem;
+}
+.signup-container p a{
+    text-decoration: none;
+    color: #0097A7;
+    font-weight: 500;
+}

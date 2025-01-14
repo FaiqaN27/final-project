@@ -1,0 +1,14 @@
+.tour_heading{
+    font-size: 3.5rem;
+    padding-left: 1.5rem;
+    font-family: Kaushan Script;
+  }
+  .tour_link{ 
+    font-size: 1.2rem;
+    text-decoration: none;
+    color: black;
+  }
+  .tour_right_arrow{
+    font-size: 2rem;
+    padding-left: 1rem;
+  } 

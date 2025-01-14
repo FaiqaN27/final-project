@@ -1,0 +1,40 @@
+.des_heading{
+    font-size: 3.5rem;
+    padding-left: 1.5rem;
+    font-family: Kaushan Script;
+} 
+  .destination__img {
+    padding-top: 1rem;
+    position: relative;
+  }
+  .destination__img img {
+     width: 100%;
+    height: 350px;
+    border-radius: 2rem;
+    object-fit: cover;
+    opacity: 0.8;
+  }
+  .destination__img img:hover{
+    opacity: 1;
+  }
+  .destination__text {
+    position: absolute;
+    top: 25%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+  }
+  .destination__text h3{
+    font-size: 2.5rem;
+    font-family: Kaushan Script;
+    text-align: center;
+  }
+    .destination__text p{
+    font-size: 1.2rem;
+    text-align: center;
+  }
+  .destination__text h5{
+    font-size: 1.7rem;
+    background-color: black;
+    font-family: Kaushan Script;
+  }

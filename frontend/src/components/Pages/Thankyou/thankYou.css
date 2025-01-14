@@ -1,0 +1,22 @@
+.thank__you{
+    margin: 8rem 2rem; 
+}
+.thank__you span{
+font-size: 4rem;
+color: green;
+}
+.thank__you h1{
+    font-size: 6rem;
+    font-family: Kaushan Script;
+}
+.home__btn{
+    background: #0097A7 !important;
+    cursor: pointer;
+    padding: .5rem 6rem !important;
+    border-radius: 2rem;
+    font-size: 1.2rem;
+}
+.home__btn a{
+    text-decoration: none;
+    color: white;
+}

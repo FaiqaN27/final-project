@@ -1,0 +1,122 @@
+.pagination span{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #0097A7;
+    color: black;
+    font-size: 1.3rem;
+    cursor: pointer;
+    font-weight: 700;
+}
+.active__page{
+    background: #0097A7;
+    color: white !important;
+}
+/* Tour Details */
+.tour__content{
+    margin-bottom: 3rem;
+}
+.tour__content img{
+    height: 400px;
+    width: 100%;
+    border-radius: 1.4rem;
+    margin: 3rem 0;
+}
+.tour__info , .tour__reviews{
+    border-radius: 1rem;
+    border: 1px solid rgb(229, 231, 235);
+    padding: 2rem ;
+}
+.tour__info h2{
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+.tour__info span{
+    display: flex;
+    align-items: center;
+    gap: .6rem;
+    font-size: 1.2rem;
+}
+.tour__extra-details{
+    display: flex;
+    align-items: center;
+    column-gap: 2.5rem;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+.tour__info h5{
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.tour__info p{
+    line-height: 1.5remrem;
+    font-size: 1.3rem;
+}
+.rating__group span{
+    font-size: 1.1rem;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    gap: .3rem;
+    color: #0097A7;
+}
+.tour__reviews h4{
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+.review__input{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: .7rem;
+    border: 1px solid rgb(229, 231, 235);
+    border-radius: 3rem;
+}
+.review__input input{
+    width: 100%;
+    padding: 1rem .5rem;
+    font-size: 1.2rem;
+    border: none;
+}
+.review__input input:focus{
+    outline: none;
+}
+.submit__btn{
+    border-radius: 2rem;
+    background: #0097A7 !important;
+    cursor: pointer;
+    font-size: 1.2rem;
+    padding: .7rem 2rem;
+}
+.review__item{
+    display: flex;
+    align-items: center;
+    column-gap: 1.5rem;
+}
+.review__item img{
+    width: 4rem;
+    height: 4rem;
+    object-fit: contain;
+}
+.review__item h5{
+    font-size: 1.3rem;
+    margin-bottom: 0;
+    font-weight: bold;
+}
+.review__item p{
+    font-size: 1rem;
+    color: gray;
+}
+.review__item h6 {
+    font-size: 1.2rem;
+}
+.review__item span{
+    font-size: 1.1rem;
+    font-weight: 500;
+    gap: .3rem;
+}

@@ -1,0 +1,155 @@
+ .contact-container{
+    position: relative;
+    width: 100%;
+    padding: 3rem 4rem;
+  }
+.form{
+    grid-area: form;
+}
+.info{
+    grid-area: info;
+}
+.map{
+    grid-area: map;
+}
+.contact{
+    background:  #0097A7 ;
+    padding: 4rem 2rem;
+    border-radius: 2rem; 
+}
+.box{
+    position: relative;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: 5fr 4fr;
+    grid-template-areas: 
+    "form info"
+    "form map";
+    grid-gap: 2rem;
+}
+/* Form CSS */
+.form-heading{
+  font-size: 3rem;
+  font-weight: 600;
+  padding-bottom: 1rem;
+  color: white;
+  font-family: Kaushan Script;
+}
+.form-para{
+  font-size: 1.3rem;
+  color: white;
+  padding-bottom: 1.5rem;
+}
+input.form-control.mb-2::placeholder{
+  color: black;
+}
+input.form-control.mb-2{
+  padding: 1rem;
+  font-size: 1.4rem;
+  border:none;
+  box-shadow: none;
+  border-radius: 1rem;
+}
+.Msg_area{
+  padding: 1rem;
+  font-size: 1.4rem;
+  border-radius: 1rem;
+  resize: none;
+}
+.Msg_area::placeholder{
+  color: black;
+}
+.form-btn{
+  background: white;
+  color: black;
+  padding: 0.9rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  text-align: center;
+  border: none;
+  border-radius: 1rem;
+}
+.form-btn:hover{
+  cursor: pointer;
+  box-shadow: 0 0.4rem 1.4rem 0 rgba(0, 0, 0, 0.315);
+  transform: translateY(-0.1rem);
+  transition: transform 150ms;
+}
+/* Contact Info CSS */
+.info_heading{
+  font-size: 3rem;
+  font-weight: 600;
+  padding-bottom: 1rem;
+  color: white;
+  font-family: Kaushan Script;
+}
+.info .info-box div{
+  display: flex;
+  align-items: center;
+  margin-bottom: 2rem ;
+}
+.info .info-box div span{
+  min-width: 2rem;
+  font-size: 2.5rem;
+  padding: .5rem;
+  margin-right: 1rem;
+  height: 3.5rem;
+  background: white;
+  color: black;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.info .info-box div p{
+  font-size: 1.4rem;
+  font-weight: 200;
+  color: white;
+}
+.info .info-box div a{
+  text-decoration: none;
+  font-weight: 200;
+  font-size: 1.4rem;
+  color: white;
+}
+/* Socila Media css */
+.social_media {
+  display: flex;
+  margin-top: 1rem;
+  justify-content: center;
+  align-items: center;
+}
+.social_media li{
+ list-style: none;
+ margin-right: 2rem;
+}
+.social_media li a{
+  font-size: 3rem;
+  color: white;
+}
+/* Map Css */
+.map{
+  padding: 0;
+}
+.map iframe{
+  border-radius: 2rem;
+  width: 100%;
+  height: 100%;
+}
+/* Responsive Design */
+@media (max-width: 991px){
+  .box{
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    grid-template-areas: 
+    "form"
+    "info"
+    "map";
+  }
+  .map{
+    padding: 0;
+    min-height: 300px;
+  }
+}

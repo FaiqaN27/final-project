@@ -1,0 +1,36 @@
+.gallery_container{
+    padding: 2rem 3rem; 
+}
+.gallery_para{
+    font-size: 1.6rem;
+    text-align: center;
+    color: white;
+}
+.photo{
+    width: 100%;
+    display: block;
+    cursor: pointer;
+}
+.close_btn{
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-right: 2rem;
+    padding: 1rem;
+    border: none;
+    border-radius: 1.5rem;
+    font-size: 2rem;
+    font-weight: 700;
+    background: none;
+    color: white;
+    background-color: transparent;
+}
+.icon{
+    font-size: 3rem;
+    border: none;
+    margin: 2rem;
+    padding: 0.5rem;
+    background: none;
+    color: white;
+    background-color: transparent;
+}

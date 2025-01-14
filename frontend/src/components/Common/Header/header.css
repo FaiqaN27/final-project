@@ -1,0 +1,69 @@
+.navbar_container{
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.2);
+}
+/* Color of the links BEFORE scroll */
+.navbar-scroll .nav-link,
+.navbar-scroll .navbar-toggler-icon,
+.navbar-scroll .navbar-brand {
+  color: #fff;
+}
+
+/* Color of the links AFTER scroll */
+.navbar-scrolled .nav-link,
+.navbar-scrolled .navbar-toggler-icon,
+.navbar-scrolled .navbar-brand {
+  color: #fff;
+}
+
+/* Color of the navbar AFTER scroll */
+.navbar-scroll,
+.navbar-scrolled {
+  background-color: #cbbcb1;
+}
+
+.mask-custom {
+  backdrop-filter: blur(15px);
+  background-color: rgba(255, 255, 255, 0.39);
+}
+
+.navbar-brand {
+  font-size: 2.5rem;
+  letter-spacing: .5rem;
+  padding-left: 1rem;
+}
+
+.nav-link{
+    font-size: 1.4rem;
+    letter-spacing: .05rem;
+    font-weight: 600;
+  }
+
+  /* Login css */
+
+  .login__signup{
+    background: #0097A7 !important;
+    color: white;
+    font-size: 1.2rem;
+    letter-spacing: .2rem;
+    padding: .5rem 1rem;
+    border-radius: .5rem; 
+    border: none;
+    font-weight: 600;
+  }
+
+  .logout_btn{
+    color: white;
+    font-size: 1.2rem;
+    letter-spacing: .2rem;
+    padding: .5rem 1rem;
+    border-radius: .5rem; 
+    border: none;
+    font-weight: 600;
+  }
+
+  .user__name{
+    font-family: "Kaushan Script";
+    text-decoration: underline;
+    padding-right: 2rem;
+    font-size: 1.6rem;
+  }

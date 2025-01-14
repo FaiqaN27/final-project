@@ -1,0 +1,13 @@
+.head {
+  background: url('../Fixbg.jpg');
+  height: 50vh;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .head {
+      height: 40vh;
+  }
+}
