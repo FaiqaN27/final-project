@@ -1,0 +1,12 @@
+
+Travel Trance booking Website
+
+need to run 'npm i' command to install node packages in both frontend and backend. (separetely for each)
+
+
+admin email: traveltrans6725@gmail.com
+password: 12345TT@
+
+
+user email: dani123@gmail.com
+password:  123456D@
