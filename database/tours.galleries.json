@@ -1,0 +1,195 @@
+[{
+  "_id": {
+    "$oid": "670e706e300b045d5aa4520f"
+  },
+  "image": "/uploads/gallery/1728999534173.jpg",
+  "createdAt": {
+    "$date": "2024-10-15T13:38:54.233Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-15T13:38:54.233Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670e7088300b045d5aa45213"
+  },
+  "image": "/uploads/gallery/1728999560432.jpg",
+  "createdAt": {
+    "$date": "2024-10-15T13:39:20.472Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-15T13:39:20.472Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670e70d5300b045d5aa45223"
+  },
+  "image": "/uploads/gallery/1728999637342.jpg",
+  "createdAt": {
+    "$date": "2024-10-15T13:40:37.353Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-15T13:40:37.353Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670f00c8da4b7ac5a3884872"
+  },
+  "image": "/uploads/gallery/1729036488352.jpg",
+  "createdAt": {
+    "$date": "2024-10-15T23:54:48.401Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-15T23:54:48.401Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670f00d6da4b7ac5a3884876"
+  },
+  "image": "/uploads/gallery/1729036502568.jpg",
+  "createdAt": {
+    "$date": "2024-10-15T23:55:02.578Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-15T23:55:02.578Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670f00e4da4b7ac5a388487a"
+  },
+  "image": "/uploads/gallery/1729036516718.jpg",
+  "createdAt": {
+    "$date": "2024-10-15T23:55:16.725Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-15T23:55:16.725Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670f00f5da4b7ac5a388487e"
+  },
+  "image": "/uploads/gallery/1729036533126.jpg",
+  "createdAt": {
+    "$date": "2024-10-15T23:55:33.133Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-15T23:55:33.133Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670f0102da4b7ac5a3884882"
+  },
+  "image": "/uploads/gallery/1729036546806.jpg",
+  "createdAt": {
+    "$date": "2024-10-15T23:55:46.812Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-15T23:55:46.812Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670f0111da4b7ac5a3884886"
+  },
+  "image": "/uploads/gallery/1729036561638.jpg",
+  "createdAt": {
+    "$date": "2024-10-15T23:56:01.644Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-15T23:56:01.644Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670f011eda4b7ac5a388488a"
+  },
+  "image": "/uploads/gallery/1729036574446.jpg",
+  "createdAt": {
+    "$date": "2024-10-15T23:56:14.452Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-15T23:56:14.452Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670f0134da4b7ac5a3884892"
+  },
+  "image": "/uploads/gallery/1729036596389.jpg",
+  "createdAt": {
+    "$date": "2024-10-15T23:56:36.395Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-15T23:56:36.395Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670f0181da4b7ac5a38848aa"
+  },
+  "image": "/uploads/gallery/1729036673606.jpg",
+  "createdAt": {
+    "$date": "2024-10-15T23:57:53.615Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-15T23:57:53.615Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670f0191da4b7ac5a38848ae"
+  },
+  "image": "/uploads/gallery/1729036689574.jpg",
+  "createdAt": {
+    "$date": "2024-10-15T23:58:09.580Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-15T23:58:09.580Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670f5e8f619a55713e3bfe8f"
+  },
+  "image": "/uploads/gallery/1729060495419.jpg",
+  "createdAt": {
+    "$date": "2024-10-16T06:34:55.617Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-16T06:34:55.617Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670f96da1976d2e27f332917"
+  },
+  "image": "/uploads/gallery/1729074906812.png",
+  "createdAt": {
+    "$date": "2024-10-16T10:35:06.824Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-16T10:35:06.824Z"
+  },
+  "__v": 0
+}]

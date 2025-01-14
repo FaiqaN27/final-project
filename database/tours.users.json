@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "670d6eb0b26a0d2d06ab2d43"
+  },
+  "username": "dani",
+  "email": "dani123@gmail.com",
+  "password": "$2a$10$KX7GdzDP8LjlnIRjyFtQ7uePJdJoX44jJimtbgBP5Iey.rkCb2hL.",
+  "role": "user",
+  "createdAt": {
+    "$date": "2024-10-14T19:19:12.193Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-14T19:19:12.193Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670ef1df407f0c4e04699ae0"
+  },
+  "username": "Faiqa",
+  "email": "traveltrans6725@gmail.com",
+  "password": "$2a$10$T53EHBMqKc5Ow7KUxKK/MenZ7XNF5RdnhSD8FLkiUnEi5/iYkgEZK",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2024-10-15T22:51:11.300Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-15T22:51:11.300Z"
+  },
+  "__v": 0
+}]

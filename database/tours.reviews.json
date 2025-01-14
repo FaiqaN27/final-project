@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "67102ceca139686e125d4cd6"
+  },
+  "tourId": {
+    "$oid": "670f0ab2da4b7ac5a3884953"
+  },
+  "userId": {
+    "$oid": "670d6eb0b26a0d2d06ab2d43"
+  },
+  "username": "dani",
+  "reviewText": "Amazing Tour",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2024-10-16T21:15:24.083Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-16T21:15:24.083Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671030a1a139686e125d4d7a"
+  },
+  "tourId": {
+    "$oid": "670f0b45da4b7ac5a3884961"
+  },
+  "userId": {
+    "$oid": "670d6eb0b26a0d2d06ab2d43"
+  },
+  "username": "dani",
+  "reviewText": "Most favorite Historical Place",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2024-10-16T21:31:13.894Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-16T21:31:13.894Z"
+  },
+  "__v": 0
+}]

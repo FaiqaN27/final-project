@@ -1,0 +1,228 @@
+[{
+  "_id": {
+    "$oid": "670effafda4b7ac5a3884862"
+  },
+  "title": "Mount Fuji, Honshu",
+  "country": "Japan",
+  "duration": 6,
+  "description": "Mount Fuji is the highest mountain in Japan, standing at 3,776 meters.",
+  "price": 120,
+  "maxGroupSize": 5,
+  "image": "/uploads/tour/1729075043887.jpg",
+  "hotelDetails": {
+    "name": "Hotel Fuji View",
+    "location": "123 Mount Fuji Road"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-10-15T23:50:07.289Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-16T10:37:23.895Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670f0014da4b7ac5a3884864"
+  },
+  "title": "Eiffel Tower, Paris",
+  "country": "France",
+  "duration": 4,
+  "description": "The Eiffel Tower is an iron lattice tower located on the Champ de Mars.",
+  "price": 150,
+  "maxGroupSize": 3,
+  "image": "/uploads/tour/1729036308518.jpg",
+  "hotelDetails": {
+    "name": "Hotel Parisian",
+    "location": "456 Paris Street"
+  },
+  "reviews": [
+    {
+      "$oid": "671028fba139686e125d4c24"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-10-15T23:51:48.527Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-16T20:58:35.268Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670f006dda4b7ac5a3884868"
+  },
+  "title": "Westminster Bridge, London",
+  "country": "England",
+  "duration": 5,
+  "description": "Westminster Bridge is a road and footbridge over the River Thames.",
+  "price": 100,
+  "maxGroupSize": 8,
+  "image": "/uploads/tour/1729036397352.jpg",
+  "hotelDetails": {
+    "name": "Hotel London Inn",
+    "location": "789 London Road"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-10-15T23:53:17.361Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-15T23:53:17.361Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670f00a8da4b7ac5a388486a"
+  },
+  "title": "Taj Mahal, Agra",
+  "country": "India",
+  "duration": 7,
+  "description": "Taj Mahal is a white marble mausoleum in Agra",
+  "price": 70,
+  "maxGroupSize": 10,
+  "image": "/uploads/tour/1729036456328.jpg",
+  "hotelDetails": {
+    "name": "Hotel Taj View",
+    "location": "321, Taj Street, Agra"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-10-15T23:54:16.338Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-15T23:54:16.338Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670f0ab2da4b7ac5a3884953"
+  },
+  "title": "Colosseum, Rome",
+  "country": "Italy",
+  "duration": 6,
+  "description": "Colosseum is an ancient amphitheater in Rome.",
+  "price": 150,
+  "maxGroupSize": 6,
+  "image": "/uploads/tour/1729039026282.jpg",
+  "hotelDetails": {
+    "name": "Hotel Rome Classic",
+    "location": "654 Rome street , Italy"
+  },
+  "reviews": [
+    {
+      "$oid": "67102ceca139686e125d4cd6"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-10-16T00:37:06.303Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-16T21:15:24.095Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670f0b03da4b7ac5a388495f"
+  },
+  "title": "Alhambra, Granada",
+  "country": "Spain",
+  "duration": 3,
+  "description": "Alhambra is a palace in Granada.",
+  "price": 120,
+  "maxGroupSize": 3,
+  "image": "/uploads/tour/1729039107960.jpg",
+  "hotelDetails": {
+    "name": "Hotel Alhambra Palace",
+    "location": "123 Alhambra Avenue, Granada"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-10-16T00:38:27.975Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-16T00:38:27.975Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670f0b45da4b7ac5a3884961"
+  },
+  "title": "Badshahi Mosque, Lahore",
+  "country": "Pakistan",
+  "duration": 4,
+  "description": "Badshahi Mosque is a Mughal-era mosque in Lahore",
+  "price": 100,
+  "maxGroupSize": 8,
+  "image": "/uploads/tour/1729039173903.jpg",
+  "hotelDetails": {
+    "name": "Hotel Lahore Continental",
+    "location": "123 Lahore Street, Lahore"
+  },
+  "reviews": [
+    {
+      "$oid": "671030a1a139686e125d4d7a"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-10-16T00:39:33.909Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-16T21:31:13.918Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670f5c3d3bd1b8371368a123"
+  },
+  "title": "Jammu & Kashmir , Pakistan",
+  "country": "Pakistan",
+  "duration": 4,
+  "description": "Beautiful place",
+  "price": 120,
+  "maxGroupSize": 5,
+  "image": "/uploads/tour/1729059901836.jpg",
+  "hotelDetails": {
+    "name": "Hotel Taj View",
+    "location": "123 Kashmir street"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-10-16T06:25:01.869Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-16T06:25:01.869Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670f5cab3bd1b8371368a12f"
+  },
+  "title": "Great Wall , Beijing",
+  "country": "China",
+  "duration": 3,
+  "description": "The Great Wall is a series of fortifications made of stone and brick.",
+  "price": 150,
+  "maxGroupSize": 5,
+  "image": "/uploads/tour/1729060011528.jpg",
+  "hotelDetails": {
+    "name": " 789 Great Wall Road, Beijing",
+    "location": "789 Great Wall Road, Beijing"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-10-16T06:26:51.538Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-16T06:33:05.598Z"
+  },
+  "__v": 0
+}]
