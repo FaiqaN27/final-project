@@ -1,0 +1,114 @@
+[
+  {
+    "image": "../Tours/tour4.jpg",
+    "country": "Japan",
+    "location": "Mount Fuji, Honshu",
+    "duration": 6,
+    "description": "Mount Fuji is the highest mountain in Japan, standing at 3,776 meters.",
+    "price": "120",
+    "maxGroupSize": 8,
+    "reviews": [],
+    "hotelDetails": {
+      "name": "Hotel Fuji View",
+      "location": "123 Mount Fuji Road, Japan"
+    }
+  },
+  {
+    "image": "tourImg02",
+    "country": "France",
+    "location": "Eiffel Tower, Paris",
+    "duration": 5,
+    "description": "The Eiffel Tower is an iron lattice tower located on the Champ de Mars.",
+    "price": "190",
+    "maxGroupSize": 10,
+    "reviews": [],
+    "hotelDetails": {
+      "name": "Hotel Parisian",
+      "location": "456 Paris Street, France"
+    }
+  },
+  {
+    "image": "tourImg03",
+    "country": "England",
+    "location": "Westminster Bridge, London",
+    "duration": 4,
+    "description": "Westminster Bridge is a road and footbridge over the River Thames.",
+    "price": "100",
+    "maxGroupSize": 8,
+    "reviews": [],
+    "hotelDetails": {
+      "name": "Hotel London Inn",
+      "location": "789 London Road, England"
+    }
+  },
+  {
+    "image": "tourImg04",
+    "country": "India",
+    "location": "Taj Mahal, Agra",
+    "duration": 7,
+    "description": "Taj Mahal is a white marble mausoleum in Agra.",
+    "price": "50",
+    "maxGroupSize": 10,
+    "reviews": [],
+    "hotelDetails": {
+      "name": "Hotel Taj View",
+      "location": "321 Taj Street, Agra"
+    }
+  },
+  {
+    "image": "tourImg05",
+    "country": "Italy",
+    "location": "Colosseum, Rome",
+    "duration": 3,
+    "description": "Colosseum is an ancient amphitheater in Rome.",
+    "price": "150",
+    "maxGroupSize": 8,
+    "reviews": [],
+    "hotelDetails": {
+      "name": "Hotel Rome Classic",
+      "location": "654 Rome Street, Italy"
+    }
+  },
+  {
+    "image": "tourImg06",
+    "country": "Spain",
+    "location": "Alhambra, Granada",
+    "duration": 4,
+    "description": "Alhambra is a palace in Granada.",
+    "price": "120",
+    "maxGroupSize": 12,
+    "reviews": [],
+    "hotelDetails": {
+      "name": "Hotel Alhambra Palace",
+      "location": "123 Alhambra Avenue, Granada"
+    }
+  },
+  {
+    "image": "tourImg07",
+    "country": "Pakistan",
+    "location": "Badshahi Mosque, Lahore",
+    "duration": 3,
+    "description": "Badshahi Mosque is a Mughal-era mosque in Lahore.",
+    "price": "120",
+    "maxGroupSize": 10,
+    "reviews": [],
+    "hotelDetails": {
+      "name": "Hotel Lahore Continental",
+      "location": "123 Lahore Street, Lahore"
+    }
+  },
+  {
+    "image": "tourImg08",
+    "country": "China",
+    "location": "The Great Wall, Beijing",
+    "duration": 6,
+    "description": "The Great Wall is a series of fortifications made of stone and brick.",
+    "price": "150",
+    "maxGroupSize": 15,
+    "reviews": [],
+    "hotelDetails": {
+      "name": "Hotel Great Wall View",
+      "location": "789 Great Wall Road, Beijing"
+    }
+  }
+]
